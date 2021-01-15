@@ -1,0 +1,61 @@
+/** header **/
+#header {
+	width: 1300px;
+	height: 100px;
+	background-color: #1d2126;
+	margin-top: 30px;
+	margin-left: 142px;
+}
+#header ul {
+	font-size: 30px;
+}
+#header ul li {
+	display: inline-table;
+	list-style-type: none;
+	padding:  0 auto ;
+	height: auto;
+	width: 310px;
+	line-height: 100px;
+	position: relative;
+}
+#active {
+	background-color: forestgreen;
+}
+#header ul li a {
+	color: white;
+	text-decoration: none;
+}
+#header ul li a:hover {
+	color: darkgoldenrod;
+}
+/** main **/
+#main {
+	width: 1300px;
+	height: 700px;
+	margin-left: 142px;
+	padding: 100px 0 ;
+}
+#customFile{
+	width: 300px;
+}
+.custom-file {
+	padding: 30px 500px;
+}
+#report1 {
+	color: blue;
+	padding: 0 580px
+}
+#report2 {
+	color: red;
+	padding: 0 590px;
+}
+#lg {
+	padding: 30px 600px;
+}
+.callmessage {
+	color: red;
+}
+
+
+
+

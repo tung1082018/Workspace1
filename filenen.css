@@ -1,0 +1,63 @@
+
+/** header **/
+#header {
+	width: 1300px;
+	height: 100px;
+	background-color: #1d2126;
+	margin-top: 30px;
+	margin-left: 142px;
+}
+#logo img {
+	width: 150px;
+	float: right;
+	clear: top;
+}
+#header ul {
+	font-size: 30px;
+}
+#header ul li {
+	display: inline-table;
+	list-style-type: none;
+	padding: 25px 0 ;
+	height: auto;
+	width: 310px;
+	line-height: 50px;
+	position: relative;
+}
+#active {
+	background-color: forestgreen;
+}
+#header ul li a {
+	color: white;
+	text-decoration: none;
+}
+#header ul li a:hover {
+	color: darkgoldenrod;
+}
+/** main **/
+#main {
+	width: 1300px;
+	height: 700px;
+	margin: 0 auto;
+}
+#export {
+	padding: 50px 560px;
+}
+h5 {
+	text-align: center;
+}
+#contribute {
+	width: 900px;
+	height: auto;
+	margin: 0 auto;
+	padding: 20px 120px;
+}
+label {
+	font-size: 20px
+}
+#numberRead {
+	height: 40px;
+}
+#nextNumber {
+	height: 40px;
+}
